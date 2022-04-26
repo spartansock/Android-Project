@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91818251152",
+    "project_id": "idoproject-61003",
+    "storage_bucket": "idoproject-61003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91818251152:android:de7ab8930c98a838d81915",
+        "android_client_info": {
+          "package_name": "com.example.idoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91818251152-cdsips3bqvcirkdnb2esnad79mke1hu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVcfL_do7BZrKJpqMOwaLyi6_9-NWlzec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91818251152-cdsips3bqvcirkdnb2esnad79mke1hu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
