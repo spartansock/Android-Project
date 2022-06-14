@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AppActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="The App"
+        android:textColor="@color/teal_200"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="F1 Leaderboard is an app made for comparing achievements done between players in the F1 Online Game.  In this app, the users are able to create a league with their friends, and compare their scores. Each player updates his lap times in a chosen track, and the rest of the players in the league get to see the others scores. So, go on, enjoy racing with your friends, and don't forget to update your records in the app!"
+        android:textSize="24sp" />
+</LinearLayout>
